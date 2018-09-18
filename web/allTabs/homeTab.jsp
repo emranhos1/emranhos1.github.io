@@ -1,3 +1,10 @@
+<%-- 
+    Document   : index
+    Created on : Sep 17, 2018, 9:23:26 PM
+    Author     : Md. Emran Hossain <emranhos1@gmail.com>
+--%>
+
+<!--home tab-->
 <div class="tab-pane fade show active" id="homeTab">
     <div class="content-box hide-on-modal"> 
         <div class="content-box-inner">
@@ -59,7 +66,6 @@
                                 <a class="icon" href="https://medisys.com.sa/" target="_blank">
                                     <img src="resources/images/gif/medisys.gif" alt="" height="300px" width="300px"/>
                                 </a>
-
                             </div>
                         </div>
                     </div><a class="close-modal-content-box" href="#" data-dismiss="modal">x</a>

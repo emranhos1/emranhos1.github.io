@@ -1,3 +1,10 @@
+<%-- 
+    Document   : index
+    Created on : Sep 17, 2018, 9:23:26 PM
+    Author     : Md. Emran Hossain <emranhos1@gmail.com>
+--%>
+
+<!--footer-->
 <footer class="section footer-classic context-dark novi-background">
     <div class="container">
         <div class="footer-group">
